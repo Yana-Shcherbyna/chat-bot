@@ -1,0 +1,12 @@
+Name: Yanabet ✦ Тестовий чат бот;
+Username: yanabet_test_bot;
+
+Use this token to access the HTTP API:
+6920041364:AAErR415jmUpzQkqwOEqxmf8znzM8Vphe9M
+
+
+"\n"- перенос строки
+"\n\n"- два переноса строки
+
+DHznK2m6bv
+
